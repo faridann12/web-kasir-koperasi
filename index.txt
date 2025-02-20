@@ -1,5 +1,11 @@
 RENCANA WEB KASIR
 -membuat menu utama
+*Menjadi koperasi yang sehat, unggul, dan berdaya saing
+Memfasilitasi pembentukan koperasi secara demokratis
+Membantu masyarakat dalam meningkatkan perekonomiannya
+Memanfaatkan teknologi untuk meningkatkan operasional dan layanan usaha.
+*Profil koperasi dapat meliputi jenis koperasi, prinsip koperasi, tujuan, dan perannya dalam perekonomian. 
+*jl.bukateja
 -membuat menu login
 -membuat menu sign-up
 -membuat daftar harga barang
