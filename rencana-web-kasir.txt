@@ -1,0 +1,11 @@
+RENCANA WEB KASIR
+-membuat menu utama
+*Menjadi koperasi yang unggul dan sehat, serta mampu menjadi penggerak ekonomi kerakyatan 
+Menjadi koperasi handal dan terpercaya yang dikelola secara profesional.
+*Mensejahterakan anggota pada khususnya dan masyarakat pada umumnya
+Membangun tatanan perekonomian nasional
+Mewujudkan masyarakat yang maju, adil, dan makmur.
+*jl.Raya Bukateja
+-membuat menu login
+-membuat menu sign-up
+-membuat daftar harga barang
